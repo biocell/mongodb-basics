@@ -1,2 +1,2 @@
 # mongodb-basics
-images/Screenshot (1).png
+https://github.com/biocell/mongodb-basics/blob/master/images/Screenshot%20(1).png
